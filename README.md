@@ -1,2 +1,3 @@
 # My-Intro
-This is my first Repository.
+This is my first Git Repository.
+Author _ Palak Dwivedi
